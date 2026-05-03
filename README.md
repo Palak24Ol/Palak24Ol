@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E6,50:D4AAFF,100:AACFFF&height=220&section=header&text=palak%20jaiswal%20✨&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⭐%20nit%20patna%20·%20cs%20engineer%20·%20building%20things%20that%20slap%20⭐&descAlignY=62&descSize=17&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E6,50:D4AAFF,100:AACFFF&height=220&section=header&text=palak%20jaiswal%20✨&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⭐%20nit%20patna%20·%20cs%20engineer%20·%20building%20things⭐&descAlignY=62&descSize=17&fontAlign=50" width="100%"/>
 
 <div align="center">
 
