@@ -10,7 +10,7 @@
 
 ---
 
-### 🌸 `$ whoami`
+### 🌸 `About Me`
 
 ```java
 public class Palak {
