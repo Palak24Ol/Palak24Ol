@@ -110,7 +110,7 @@ public class Palak {
 
 <div align="center">
 
-<img src="https://gssoc.girlscript.tech/badges/contributor.png" width="100" alt="GSSoC Contributor/Mentee"/>
+<img src="https://gssoc.girlscript.org/badges/contributor.png" width="100" alt="GSSoC Contributor/Mentee"/>
 &nbsp;&nbsp;
 <img src="https://gssoc.girlscript.org/badges/open.png" width="100" alt="Open Source Track"/>
 &nbsp;&nbsp;
