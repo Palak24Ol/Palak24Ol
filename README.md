@@ -106,6 +106,20 @@ public class Palak {
 
 </div>
 
+### 🎖️ open source badges
+
+<div align="center">
+
+<img src="https://gssoc.girlscript.tech/badges/contributor.png" width="100" alt="GSSoC Contributor/Mentee"/>
+&nbsp;&nbsp;
+<img src="https://gssoc.girlscript.org/badges/open.png" width="100" alt="Open Source Track"/>
+&nbsp;&nbsp;
+<img src="https://gssoc.girlscript.org/badges/ai.png" width="100" alt="AI/Agents Track"/>
+
+</div>
+
+<br/>
+
 <br/>
 
 ---
