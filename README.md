@@ -20,7 +20,7 @@ public class Palak {
     String  location   = "Gorakhpur, India 🌙";
     String  building   = "production-grade full-stack systems + AI tools";
 
-    String[] currently = { "Spring Boot", "Go", "Distributed Systems" };
+    String[] currently = { "Spring Boot", "Distributed Systems" };
     String[] openTo    = { "internships", "collabs", "solving hard problems" };
     String   funFact   = "i write SQL parsers for fun 🌸";
 }
