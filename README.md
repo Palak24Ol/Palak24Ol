@@ -40,7 +40,7 @@ public class Palak {
 | **[MockMate — AI Interview](https://github.com/Palak24Ol/AI-INTERVIEW)** | Real-time AI mock interview platform with live voice transcription, Gemini-powered scoring on 5 dimensions in under 10s | Next.js · TypeScript · Firebase · Gemini AI · VAPI |
 | **[TrackMyMoney](https://github.com/Palak24Ol/money-manager-fullstack-project)** | Full-stack finance tracker with 15+ REST endpoints, JWT auth, SMTP email verification & Excel export via Apache POI | Spring Boot · Java · React · MySQL |
 | **[Database Engine](https://github.com/Palak24Ol/DatabaseEngine)** | Hand-written DB engine in Go — B+ tree, WAL, custom SQL parser | Go |
-| **[Code Editor](https://github.com/Palak24Ol/code-editor)** | Browser-based code editor | TypeScript · React |
+ 
 
 </div>
 
