@@ -78,15 +78,13 @@ public class Palak {
 
 <div align="center">
 
- 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Palak24Ol&show_icons=true&hide_border=true&count_private=true&bg_color=fff5fb&title_color=D4A0FF&icon_color=FFB6E6&text_color=888888" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888" />
 
 <br/>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=Palak24Ol&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5&timezone=Asia%2FKolkata" />
-
-<br/><br/>
-
- 
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Palak24Ol&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5" />
 
 </div>
 
