@@ -82,7 +82,7 @@ public class Palak {
 
 <br/>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Palak24Ol&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5" />
+<img width="55%" src="https://streak-stats.demolab.com?user=Palak24Ol&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5" />
 
 <br/><br/>
 
