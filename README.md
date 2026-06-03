@@ -89,14 +89,16 @@ public class Palak {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palak24Ol&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&icon_color=FFB6E6&text_color=888888&ring_color=D4A0FF" />
+<!-- <img width="49%" src="https://github-readme-stats-five-kappa-86.vercel.app/api?username=Palak24Ol&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&icon_color=FFB6E6&text_color=888888&ring_color=D4A0FF" /> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Palak24Ol&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888&langs_count=8" />
+
+
+<img width="40%" src="https://github-readme-stats-five-kappa-86.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888&langs_count=8" />
 
 </div>
 
