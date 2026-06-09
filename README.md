@@ -31,7 +31,7 @@ public class Palak {
     String[] languages = { "Java", "Go", "TypeScript", "JavaScript", "Python", "C" };
     String[] currently = { "Spring Boot", "Next.js", "Distributed Systems", "System Design" };
     String[] openTo    = { "internships", "collabs", "solving hard problems" };
-    String   funFact   = "i write SQL parsers for fun 🌸";
+    String   funFact   = "i make projects for fun:))";
 }
 ```
 
@@ -65,7 +65,7 @@ public class Palak {
 
 **languages**
 <br/>
-[![Skills](https://skillicons.dev/icons?i=java,go,ts,js,python,c&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,ts,js,python,c&theme=light)](https://skillicons.dev)
 
 **backend & frontend**
 <br/>
