@@ -99,7 +99,7 @@ public class Palak {
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-five-kappa-86.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888&langs_count=8" />
 
 </div>
 <br/>
